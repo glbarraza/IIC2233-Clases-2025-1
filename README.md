@@ -1,8 +1,9 @@
 # IIC2233-Clases-2025-1
-Aquí guardo los códigos de las clases del curso IIC2233 Programación Avanzada del primer semestre 2025.
+En esencia, esta es una copia del repositorio de los [contenidos de IIC2233](https://github.com/IIC2233/contenidos) del primer semestre 2025. Debido a que tal repositorio es eliminado y re-creado cada semestre, los contenidos del repositorio oficial cambian dependiendo del semestre. Mi idea de este repo es conservar el material del primer semestre 2025.
 
-# `README.md` del repositorio original
+`README.md` del repositorio original
 =
+
 # Contenidos
 
 ### Preguntas frecuentes
