@@ -2,7 +2,7 @@
 Aquí guardo los códigos de las clases del curso IIC2233 Programación Avanzada del primer semestre 2025.
 
 # `README.md` del repositorio original
-
+=
 # Contenidos
 
 ### Preguntas frecuentes
